@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Caio Gonzaga
-- 👨‍🎓 I'm currently studying at UFG.
+- 👨‍🎓 I'm currently studying Computer Science at UFG.
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML, CSS, JS, SQL, ReactJS, TypeScript
 - 📫 Contact me: <br> 
