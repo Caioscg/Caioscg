@@ -3,7 +3,7 @@
 #### About
 - 👨‍🎓 I'm currently studying Computer Science at UFG.
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning `HTML5`, `CSS3`, `JavaScript`, `SQL`, `ReactJS`, `ReactJS`
+- 🌱 I’m currently learning `HTML5`, `CSS3`, `JavaScript`, `SQL`, `ReactJS`
 
 #### 📫 Contact me: <br> 
 - Instagram: https://www.instagram.com/caiosouza_28/ <br>
